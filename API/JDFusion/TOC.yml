@@ -26,9 +26,9 @@ items:
        - name: detachDiskToVmInstanceByDiskId
          href: Disk/detachDiskToVmInstanceByDiskId.md
        - name: getDiskById
-         href: Disk/getDiskById
+         href: Disk/getDiskById.md
        - name: getDisks
-         href: Disk/getDisks
+         href: Disk/getDisks.md
        - name: removeDiskById
          href: Disk/removeDiskById.md
    - name: 镜像相关接口
