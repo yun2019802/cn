@@ -60,7 +60,7 @@
       - name: 备份恢复
         href: Operation-Guide/Backup-And-Recovery.md
       - name: 参数修改
-        href: Operation-Guide/Data-Migration.md
+        href: Operation-Guide/Parameter-Modification.md
       - name: 监控报警
         items:
           - name: 查看监控信息
@@ -68,8 +68,8 @@
           - name: 设置报警规则
             href: Operation-Guide/Monitoring/Alarm-Rules.md   
       - name: 数据迁移
-        href: Operation-Guide/Parameter-Modification.md   
-  - name: 操作指南
+        href: Operation-Guide/Data-Migration.md   
+  - name: 最佳实践
     items:
     - name: C/C++连接Redis实例
       href: Best-Practices/CorCplusplus-Connect-to-Redis-Instance.md
