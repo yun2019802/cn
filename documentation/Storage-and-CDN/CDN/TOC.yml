@@ -165,7 +165,19 @@
             href: API-Reference/Live-Video-Open-Api/Query-stream-data.md
           - name: 分区域运营商详细数据统计
             href: API-Reference/Live-Video-Open-Api/Area-isp-statistics.md
-          - name: 直播CDN OPEN API
-            href: API-Reference/Live-Video-Open-Api/Live-Video-Open-Api.md
+          - name: 创建直播加速域名
+            href: API-Reference/Live-Video-Open-Api/Creat-Live-Domain.md
+          - name: 回源策略变更
+            href: API-Reference/Live-Video-Open-Api/Change-Live-Back-To-Source.md.md
+          - name: 服务状态变更
+            href: API-Reference/Live-Video-Open-Api/Change-Live-Domain-Status.md
+          - name: 查询域名配置信息
+            href: API-Reference/Live-Video-Open-Api/Query-Live-Domain-Config.md
+          - name: 查询在线人数
+            href: API-Reference/Live-Video-Open-Api/Query-online-Number.md
+          - name: 设置推流中断超时时间
+            href: API-Reference/Live-Video-Open-Api/Set-Interrupt-Timeout.md
+          - name: 设置推流IP白名单
+            href: API-Reference/Live-Video-Open-Api/Set-Push-IP-Whitelist.md.md
   - name: FAQ
     href: FAQ/FAQ.md
