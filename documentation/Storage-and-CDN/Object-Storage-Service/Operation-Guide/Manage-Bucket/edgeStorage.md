@@ -9,9 +9,13 @@
 3.天然的P2P网络分发特性，节约用户带宽成本。
 
 * 使用场景：[监控视频存储](edgestorage#user-content-1)、[物联网边缘存储](edgestorage#user-content-2)、[数据存储和备份](edgestorage#user-content-3)、[互联网信息安全](edgestorage#user-content-4)、[区块链应用](edgestorage#user-content-5)
+
 * 控制台操作过程：[开启“边缘存储”服务](edgestorage#user-content-6)、[OSS同步至边缘存储](edgestorage#user-content-7)、[边缘存储同步至OSS](edgestorage#user-content-8)
+
 * API统一信息：[API统一信息](edgestorage#user-content-9)
+
 * API详情：[同步至边缘存储](edgestorage#user-content-10)、[边缘存储同步至OSS](edgestorage#user-content-11)、[查看文件管理](edgestorage#user-content-12)、[查看同步日志](edgestorage#user-content-13)
+
 * 常见问题：[常用命令及API列表](edgestorage#user-content-14)、[非公网IPFS文件能否同步至OSS？](edgestorage#user-content-15)
 
 ## 使用场景
