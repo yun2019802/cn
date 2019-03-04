@@ -36,7 +36,7 @@
       - name: 创建高可用组
         href: Getting-Started/Create-AvailabilityGroup.md
       - name: 创建监听器及后端服务
-        href: Getting-Started/DNLB-InstanceManagement.md
+        href: Getting-Started/Manage-Instance.md
       - name: 删除公网负载均衡实例
         href: Getting-Started/Delete-Instance.md
   - name: 操作指南
