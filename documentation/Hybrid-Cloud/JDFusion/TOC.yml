@@ -23,7 +23,9 @@ items:
   items:
     - name: 如何获取邀请码
       href: Operation-Guide/jdfusion-cloud-InvitationCode.md
-  
+    items:
+    - name: 如何登录JDFusion控制台
+      href: Operation-Guide/jdfusion-cloud-uc.md
       
       - name: 历史发布
   items:
