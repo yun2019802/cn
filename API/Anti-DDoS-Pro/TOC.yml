@@ -97,8 +97,6 @@
         items: 
           - name: createWebRule
             href: Anti-DDos-Pro-Web-Rule-Configuration-APIs/createWebRule.md
-          - name: deleteCCProtectionRuleOfWebRule
-            href: Anti-DDos-Pro-Web-Rule-Configuration-APIs/deleteCCProtectionRuleOfWebRule.md
           - name: deleteWebRule
             href: Anti-DDos-Pro-Web-Rule-Configuration-APIs/deleteWebRule.md
           - name: describeCertInfo

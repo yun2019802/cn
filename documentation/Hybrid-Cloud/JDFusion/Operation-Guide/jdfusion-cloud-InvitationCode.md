@@ -14,6 +14,5 @@
 ## 3、提交公测申请
 进入[京东云控制台](https://console.jdcloud.com)点击导航栏按钮【产品】-【混合云】-【JDFusion】-【公测申请】进入JDFusion产品页面。
 ![创建实例](https://github.com/jdcloudcom/cn/blob/edit/image/JDFusion/yaoqingma-3.png)
-
 ## 4、获取邀请码
 京东云JDFusion产品团队会根据提交的公测申请，后台生成公测邀请码，并通过线下提交给申请用户。
