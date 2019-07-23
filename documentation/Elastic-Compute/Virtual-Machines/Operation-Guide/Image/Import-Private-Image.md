@@ -76,7 +76,7 @@ Linux镜像可使用我们提供的镜像自检工具完成重要系统配置的
 | imageUrl   | string    |是   |和导入镜像同地区的镜像文件地址（OSS object外链地址），如文件所属地域与接口region不一致会影响导入
 | imageName   |  string    |是  |自定义的镜像名称
 | description   |  string    |否  |自定义的镜像描述
-| forceImport | string |否  |  是否不做镜像检测强制导入镜像，为避免导入后镜像不可用建议保持默认默认值。默认值：false。
+| forceImport | string |否  |  是否不做镜像检测强制导入镜像，为避免导入后镜像不可用建议保持默认默认值。默认值：false
 | clientToken |  string    |否  |用于保证请求的幂等性。由客户端生成，长度不能超过64个字符
 
 ## 查看及测试镜像
