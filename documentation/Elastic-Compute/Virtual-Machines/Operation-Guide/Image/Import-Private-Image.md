@@ -67,7 +67,7 @@ Linux镜像可使用我们提供的镜像自检工具完成重要系统配置的
 
 | 参数                  | 类型      |是否必填     | 说明 |
 | :------------------- |  :------------------- | :------------------- |:------------------- |
-| architecture   |  string    |是  |操作系统架构，当前仅支持“x86_64”
+| architecture   |  string    |是  |操作系统架构，支持 “x86_64” 和 “i386”
 | osType   | string    |是   |镜像操作系统分类，请根据实际情况填写“linux”或“windows”
 | platform   | string    |是   |镜像操作系统发行版本，如版本为“CentOS”、“Ubuntu”、“Windows Server”中的一种请如实填写，否则请根据osType，对应填写“Other Linux”或“Other Windows”
 | osVersion   |  string    |否  |具体的操作系统发行版本号，如7.4（CentOS）、18.04（Ubuntu），仅用于标识以作区分，可根据需要填写
@@ -82,7 +82,7 @@ Linux镜像可使用我们提供的镜像自检工具完成重要系统配置的
 ## 查看及测试镜像
 成功提交导入镜像请求后，即可在控制台私有镜像列表页/详情页中通过“状态”属性中的百分比了解具体进度。
 
-如果查询时发现镜像长时间处于“创建中 0%“，可能是由于导入镜像请求过多，您的请求整处于排队状态，此时可通过openAPI调用 [镜像导入任务查询](https://docs.jdcloud.com/cn/virtual-machines/api/describeTasks?content=API) 接口来获知更详细的任务进展。
+如果查询时发现镜像长时间处于“创建中 0%“，可能是由于导入镜像请求过多，您的请求整处于排队状态，此时可通过openAPI调用 [镜像导入任务查询](https://docs.jdcloud.com/cn/virtual-machines/api/imagetasks?content=API) 接口来获知更详细的任务进展。
 
 镜像导入完成后，请使用镜像创建云主机测试是否可以成功创建，以及基本功能是否正常，如有异常可核对是否符合镜像制作基本要求 ，若仍无法解决请提交工单或联系客服获得技术支持。
 
